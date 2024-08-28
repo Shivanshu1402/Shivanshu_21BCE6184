@@ -48,20 +48,6 @@ PORT=4000 npm start
 WebSocket Issues: Ensure that WebSockets are properly handled in both the server and the frontend. Check for any connection errors in the browser's developer console.
 ![image](https://github.com/user-attachments/assets/b45895b2-46ac-4f67-bb5b-c83c964ceb6f)
 
-Project Structure
-Chess-Like-Game/
-│
-├── server/
-│   ├── index.js             # Entry point for the Node.js server
-│   ├── gameManager.js       # Manages game logic and player states
-│   ├── game.js              # Game class implementation
-│   └── node_modules/        # Installed dependencies
-│
-├── client/
-│   ├── app.py               # Streamlit app for the frontend
-|
-├── package.json             # Node.js project dependencies
-└── README.md                # This file
 
 Fork the repository.
 Create a new branch (git checkout -b feature-branch).
