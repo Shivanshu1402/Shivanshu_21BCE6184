@@ -46,6 +46,8 @@ TypeError: game.save is not a function: Make sure the game object is correctly i
 Port Conflicts: If the server doesn't start, it might be due to a port conflict. You can change the port in the server/index.js file or set an environment variable like this:
 PORT=4000 npm start
 WebSocket Issues: Ensure that WebSockets are properly handled in both the server and the frontend. Check for any connection errors in the browser's developer console.
+![image](https://github.com/user-attachments/assets/b45895b2-46ac-4f67-bb5b-c83c964ceb6f)
+
 Project Structure
 Chess-Like-Game/
 │
